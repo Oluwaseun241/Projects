@@ -1,4 +1,4 @@
-# This is a repo for my side projects in ALX
+# This is a repo for my side projects
 
 # Contents
 
